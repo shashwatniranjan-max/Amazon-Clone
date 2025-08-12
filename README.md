@@ -1,7 +1,7 @@
 <h1 align="center">🛒 Amazon Homepage Clone</h1>
 
 <p align="center">
-  <b>A static clone of the Amazon India homepage built with HTML & CSS</b><br>
+  <b>A static clone of the Amazon.com homepage built with HTML & CSS</b><br>
   A personal practice project to improve frontend skills — layout, styling, and attention to detail.
 </p>
 
