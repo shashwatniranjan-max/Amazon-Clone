@@ -61,6 +61,7 @@ amazon-clone/
 ## 👨‍💻 Author
 **Shashwat Niranjan**  
 📧 [Email Me]: shashwatniranjan1@gmail.com
+<br>
 🌐 [GitHub Profile](https://github.com/shashwatniranjan-max)  
 
 
