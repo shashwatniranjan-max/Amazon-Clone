@@ -15,7 +15,7 @@
 
 ## 📸 Project Preview
 <p align="center">
-  <img src="./screenshot.png" alt="Amazon Clone Screenshot" width="800">
+  <img src="Screenshot.png" alt="Amazon Clone Screenshot" width="800">
 </p>
 
 ---
