@@ -58,6 +58,12 @@ amazon-clone/
 
 ---
 
+## 👨‍💻 Author
+**Shashwat Niranjan**  
+📧 [Email Me](shashwatniranjan1@gmail.com)  
+🌐 [GitHub Profile](https://github.com/shashwatniranjan-max)  
+
+
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
