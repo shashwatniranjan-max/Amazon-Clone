@@ -48,6 +48,7 @@ amazon-clone/
 - 🎨 Add hover animations & smooth transitions
 - ⚡ Add JavaScript for dropdown menus & sliders
 - 🔗 Fetch product data dynamically (future goal)
+- The goal is to make this a full-stack project project in future 
 
 ---
 
